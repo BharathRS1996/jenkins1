@@ -1,5 +1,6 @@
 #include<stdio.h>
-void main()
+int main()
 {
 printf("enter your name");
+return 0;
 }
