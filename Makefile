@@ -1,2 +1,2 @@
-hellomake: file.c
-	gcc -o hellomake file.c -I.
+hellomake: file.c jenkins.c
+	gcc -o hellomake file.c jenkins.c -I.
